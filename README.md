@@ -1,4 +1,10 @@
-- 👋 Hi, I’m Sandil Epitawatte
+
+<body>
+    <h1>👋 Hi, I’m Sandil Epitawatte</h1>
+
+
+-<p>👀<b>About me:</b> I’m a Computer Science student at University of South Wales.</p>
+
 - 👀 About me: I’m a Computer Science student at University of South Wales.
 - 💻 What I am doing: I am currently pursuing a Computer Science degree on key modules such as Programming, Information Management Assurance and Security, and Professionalism Employability Enterprise and Problem-Solving.
 - 📚 Skillset: I'm still on my learning period of the following Office,C++, SQL, and Python. 
