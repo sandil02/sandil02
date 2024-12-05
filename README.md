@@ -1,8 +1,8 @@
 
 <div align="center">
   <!-- Top Banner -->
-  <img src="https://images.app.goo.gl/vV4gnkffiujJkng19" 
-       alt="Student using a computer" style="border-radius: 10px;">
+  <img src="https://png.pngtree.com/png-clipart/20230913/original/pngtree-student-on-computer-vector-png-image_11055567.png" 
+        style="border-radius: 10px;">
 
   <!-- Introduction -->
   <h1>👋 Hi, I’m <span style="color: #3498db;">Sandil Epitawatte</span></h1>
@@ -18,9 +18,9 @@
   <p style="text-align: left; width: 70%; margin: auto;">
     💻 I am currently pursuing a Computer Science degree, learning key modules such as:
     <ul style="list-style: square; margin-top: 10px; text-align: left;">
-      <li>Programming</li>
       <li>Information Management Assurance and Security</li>
       <li>Professionalism, Employability, Enterprise, and Problem-Solving</li>
+      <li>Programming</li>
     </ul>
   </p>
   
@@ -35,6 +35,7 @@
       <li>C++</li>
       <li>SQL</li>
       <li>Python</li>
+      <li>HTML</li>
     </ul>
   </p>
 
@@ -54,9 +55,7 @@
 
   <!-- Closing Section -->
   <h2>🌟 Thank you for visiting!</h2>
-  <p>
-    Feel free to explore my profile and check out my repositories. 😊
-  </p>
+  
 </div>
 
 
