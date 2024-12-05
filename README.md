@@ -1,9 +1,7 @@
-
 <div align="center">
   <!-- Top Banner -->
   <img src="https://png.pngtree.com/png-clipart/20230913/original/pngtree-student-on-computer-vector-png-image_11055567.png" 
        style="border-radius: 10px; width: 40%;">
-
 
   <!-- Introduction -->
   <h1>👋 Hi, I’m <span style="color: #3498db;">Sandil Epitawatte</span></h1>
@@ -16,9 +14,9 @@
   
   <!-- About Me Section -->
   <h2>👀 About Me</h2>
-  <p style="text-align: left; width: 70%; margin: auto;">
+  <p style="text-align: center; width: 70%; margin: auto;">
     💻 I am currently pursuing a Computer Science degree, learning key modules such as:
-    <ul style="list-style: square; margin-top: 10px; text-align: left;">
+    <ul style="list-style: square; margin-top: 10px; text-align: center;">
       <li>Information Management Assurance and Security</li>
       <li>Professionalism, Employability, Enterprise, and Problem-Solving</li>
       <li>Programming</li>
@@ -29,9 +27,9 @@
 
   <!-- Skillset Section -->
   <h2>📚 Skillset</h2>
-  <p style="text-align: left; width: 70%; margin: auto;">
+  <p style="text-align: center; width: 70%; margin: auto;">
     I’m still learning and improving my skills in:
-    <ul style="list-style: circle; margin-top: 10px; text-align: left;">
+    <ul style="list-style: circle; margin-top: 10px; text-align: center;">
       <li>Office</li>
       <li>C++</li>
       <li>SQL</li>
@@ -44,9 +42,9 @@
 
   <!-- Hobbies Section -->
   <h2>🏅 Hobbies</h2>
-  <p style="text-align: left; width: 70%; margin: auto;">
+  <p style="text-align: center; width: 70%; margin: auto;">
     When I’m not studying, I enjoy:
-    <ul style="list-style: disc; margin-top: 10px; text-align: left;">
+    <ul style="list-style: disc; margin-top: 10px; text-align: center;">
       <li>Playing video games 🎮</li>
       <li>Working out 🏋️</li>
     </ul>
@@ -58,4 +56,3 @@
   <h2>🌟 Thank you for visiting!</h2>
   
 </div>
-
