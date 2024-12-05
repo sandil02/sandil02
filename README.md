@@ -33,15 +33,23 @@
       <!-- Skill Images -->
 <img src="https://sm.pcmag.com/pcmag_uk/review/m/microsoft-/microsoft-office-professional-2021_4b65.jpg"  style="width: 50px; margin-right: 10px;">
 Microsoft Office <br>
+
+
       
 <img src="https://banner2.cleanpng.com/20180526/oqt/avq6683ud.webp" alt="SQL Logo" style="width: 50px; margin-right: 10px;">
 SQL <br>
 
+
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" style="width: 50px; margin-right: 10px;">
 Python <br>
 
+
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" style="width: 50px; margin-right: 10px;">
 C++ <br>
+
+
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" style="width: 50px; margin-right: 10px;">
 HTML
