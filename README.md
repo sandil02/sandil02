@@ -37,15 +37,7 @@
       <img src="https://www.lavalamp.biz/wp-content/uploads/2024/05/sql-database-icon-logo-design-ui-or-ux-app-vector.jpg"  style="width: 50px; margin-right: 10px;">
       SQL <br>
       
-      <img src="https://cdn.worldvectorlogo.com/logos/python-3.svg"  style="width: 50px; margin-right: 10px;">
-      Python <br>
       
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/C%2B%2B_logo.svg/800px-C%2B%2B_logo.svg.png" alt="C++ Logo" style="width: 50px; margin-right: 10px;">
-      C++ <br>
-      
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HTML5_logo.svg/800px-HTML5_logo.svg.png" alt="HTML Logo" style="width: 50px; margin-right: 10px;">
-      HTML
-    
 
 
 	</p>
