@@ -30,13 +30,12 @@
   <p style="text-align: left; width: 70%; margin: auto;">
     I’m still learning and improving my skills in:
     <p style="text-align: left;">
-      
+      <!-- Skill Images -->
       <img src="https://sm.pcmag.com/pcmag_uk/review/m/microsoft-/microsoft-office-professional-2021_4b65.jpg"  style="width: 50px; margin-right: 10px;">
-      Microsoft Office <br>
+Microsoft Office <br>
       
       <img src="https://cdn-icons-png.flaticon.com/512/2772/2772165.png" alt="SQL Logo" style="width: 50px; margin-right: 10px;">
-SQL
- <br>
+SQL <br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" style="width: 50px; margin-right: 10px;">
 Python <br>
@@ -46,8 +45,7 @@ C++ <br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" style="width: 50px; margin-right: 10px;">
 HTML
-
-    </p>
+	</p>
   </p>
 
   <hr style="width: 80%; border: 1px solid #ddd; margin: 20px auto;">
