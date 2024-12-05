@@ -37,10 +37,15 @@
       <img src="https://www.lavalamp.biz/wp-content/uploads/2024/05/sql-database-icon-logo-design-ui-or-ux-app-vector.jpg"  style="width: 50px; margin-right: 10px;">
       SQL <br>
       
+      <img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png"  style="width: 50px; margin-right: 10px;">
+      Python <br>
       
-
-
-	</p>
+      <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue-thumbnail.png" style="width: 50px; margin-right: 10px;">
+      C++ <br>
+      
+      <img src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-html-file-document-icon-png-image_4187497.jpg"  style="width: 50px; margin-right: 10px;">
+      HTML
+    </p>
   </p>
 
   <hr style="width: 80%; border: 1px solid #ddd; margin: 20px auto;">
