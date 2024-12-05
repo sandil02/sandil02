@@ -37,7 +37,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/SQL_server_logo.svg/1920px-SQL_server_logo.svg.png" alt="SQL Logo" style="width: 50px; margin-right: 10px;">
       SQL <br>
       
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python Logo" style="width: 50px; margin-right: 10px;">
+      <img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" alt="Python Logo" style="width: 50px; margin-right: 10px;">
       Python <br>
       
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/C%2B%2B_logo.svg/800px-C%2B%2B_logo.svg.png" alt="C++ Logo" style="width: 50px; margin-right: 10px;">
