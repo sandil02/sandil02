@@ -60,9 +60,7 @@ HTML
     </p>
   </p>
 
-  <hr style="width: 80%; border: 1px solid #ddd; margin: 20px auto;">
 
-  <!-- Closing Section -->
-  <h2>🌟 Thank you for visiting!</h2>
-  
+
+</div>
 
