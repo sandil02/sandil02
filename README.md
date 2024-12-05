@@ -34,17 +34,18 @@
       <img src="https://sm.pcmag.com/pcmag_uk/review/m/microsoft-/microsoft-office-professional-2021_4b65.jpg"  style="width: 50px; margin-right: 10px;">
       Microsoft Office <br>
       
-      <img src="https://www.lavalamp.biz/wp-content/uploads/2024/05/sql-database-icon-logo-design-ui-or-ux-app-vector.jpg"  style="width: 50px; margin-right: 10px;">
-      SQL <br>
-      
-      <img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png"  style="width: 50px; margin-right: 10px;">
-      Python <br>
-      
-      <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue-thumbnail.png" style="width: 50px; margin-right: 10px;">
-      C++ <br>
-      
-      <img src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-html-file-document-icon-png-image_4187497.jpg"  style="width: 50px; margin-right: 10px;">
-      HTML
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Logo" style="width: 50px; margin-right: 10px;">
+SQL <br>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" style="width: 50px; margin-right: 10px;">
+Python <br>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" style="width: 50px; margin-right: 10px;">
+C++ <br>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" style="width: 50px; margin-right: 10px;">
+HTML
+
     </p>
   </p>
 
