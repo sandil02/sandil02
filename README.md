@@ -2,7 +2,8 @@
 <div align="center">
   <!-- Top Banner -->
   <img src="https://png.pngtree.com/png-clipart/20230913/original/pngtree-student-on-computer-vector-png-image_11055567.png" 
-        style="border-radius: 10px;">
+       style="border-radius: 10px; width: 60%;">
+
 
   <!-- Introduction -->
   <h1>👋 Hi, I’m <span style="color: #3498db;">Sandil Epitawatte</span></h1>
