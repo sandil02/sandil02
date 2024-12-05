@@ -1,7 +1,7 @@
 
 <div align="center">
   <!-- Top Banner -->
-  <img src="https://via.placeholder.com/800x200?text=Student+Using+a+Computer" 
+  <img src="https://www.pngegg.com/en/png-ymlyc#goog_rewarded" 
        alt="Student using a computer" style="border-radius: 10px;">
 
   <!-- Introduction -->
