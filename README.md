@@ -31,7 +31,7 @@
     I’m still learning and improving my skills in:
     <p style="text-align: left;">
       <!-- Skill Images -->
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Microsoft_Office_logo_2019.svg/1200px-Microsoft_Office_logo_2019.svg.png" alt="Microsoft Office Logo" style="width: 50px; margin-right: 10px;">
+      <img src="https://sm.pcmag.com/pcmag_uk/review/m/microsoft-/microsoft-office-professional-2021_4b65.jpg"  style="width: 50px; margin-right: 10px;">
       Microsoft Office <br>
       
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/SQL_server_logo.svg/1920px-SQL_server_logo.svg.png" alt="SQL Logo" style="width: 50px; margin-right: 10px;">
