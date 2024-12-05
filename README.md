@@ -31,7 +31,7 @@
     I’m still learning and improving my skills in:
     <p style="text-align: left;">
       <!-- Skill Images -->
-      
+      <img src="https://sm.pcmag.com/pcmag_uk/review/m/microsoft-/microsoft-office-professional-2021_4b65.jpg"  style="width: 50px; margin-right: 10px;">
       Microsoft Office <br>
       
       <img src="https://yeow.ong/wp-content/uploads/2023/07/sql-structure.png" alt="SQL Logo" style="width: 50px; margin-right: 10px;">
@@ -46,7 +46,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HTML5_logo.svg/800px-HTML5_logo.svg.png" alt="HTML Logo" style="width: 50px; margin-right: 10px;">
       HTML
     
-<img src="https://sm.pcmag.com/pcmag_uk/review/m/microsoft-/microsoft-office-professional-2021_4b65.jpg"  style="width: 50px; margin-right: 10px;">
+
 
 	</p>
   </p>
