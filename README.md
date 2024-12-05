@@ -30,7 +30,7 @@
   <p style="text-align: left; width: 70%; margin: auto;">
     I’m still learning and improving my skills in:
     <p style="text-align: left;">
-      <!-- Skill Images -->
+      
       <img src="https://sm.pcmag.com/pcmag_uk/review/m/microsoft-/microsoft-office-professional-2021_4b65.jpg"  style="width: 50px; margin-right: 10px;">
       Microsoft Office <br>
       
