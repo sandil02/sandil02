@@ -34,7 +34,7 @@
       <img src="https://sm.pcmag.com/pcmag_uk/review/m/microsoft-/microsoft-office-professional-2021_4b65.jpg"  style="width: 50px; margin-right: 10px;">
 Microsoft Office <br>
       
-      <img src="https://cdn-icons-png.flaticon.com/512/2772/2772165.png" alt="SQL Logo" style="width: 50px; margin-right: 10px;">
+      <img src="https://cdn.prod.website-files.com/61ddd0b42c51f89b7de1e910/6697e5d70e6b50dbe5bbe3dd_6697e36f9a2e61c3f9a3c850_SQL.jpeg" alt="SQL Logo" style="width: 50px; margin-right: 10px;">
 SQL <br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" style="width: 50px; margin-right: 10px;">
