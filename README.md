@@ -56,3 +56,30 @@
   <h2>🌟 Thank you for visiting!</h2>
   
 </div>
+
+<style>
+  /* Waving Hand Emoji Animation */
+  h1 span {
+    display: inline-block;
+    animation: wave 1.5s ease-in-out infinite;
+  }
+
+  /* Keyframes for the waving hand */
+  @keyframes wave {
+    0% {
+      transform: rotate(0deg);
+    }
+    25% {
+      transform: rotate(15deg);
+    }
+    50% {
+      transform: rotate(0deg);
+    }
+    75% {
+      transform: rotate(-15deg);
+    }
+    100% {
+      transform: rotate(0deg);
+    }
+  }
+</style>
