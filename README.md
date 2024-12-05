@@ -14,46 +14,40 @@
   
   <!-- About Me Section -->
   <h2>👀 About Me</h2>
-  <p style="text-align: center; width: 70%; margin: auto;">
+  <p style="text-align: left; width: 70%; margin: auto;">
     💻 I am currently pursuing a Computer Science degree, learning key modules such as:
-    <span style="display: inline-block; text-align: left; margin-top: 10px;">
-      <ul style="list-style: square; display: inline; margin: 0;">
-        <li style="display: inline;">Information Management Assurance and Security</li>
-        <li style="display: inline;">Professionalism, Employability, Enterprise, and Problem-Solving</li>
-        <li style="display: inline;">Programming</li>
-      </ul>
-    </span>
+    <p style="text-align: left;">
+      • Information Management Assurance and Security <br>
+      • Professionalism, Employability, Enterprise, and Problem-Solving <br>
+      • Programming
+    </p>
   </p>
   
   <hr style="width: 80%; border: 1px solid #ddd; margin: 20px auto;">
 
   <!-- Skillset Section -->
   <h2>📚 Skillset</h2>
-  <p style="text-align: center; width: 70%; margin: auto;">
+  <p style="text-align: left; width: 70%; margin: auto;">
     I’m still learning and improving my skills in:
-    <span style="display: inline-block; text-align: left; margin-top: 10px;">
-      <ul style="list-style: circle; display: inline; margin: 0;">
-        <li style="display: inline;">Office</li>
-        <li style="display: inline;">C++</li>
-        <li style="display: inline;">SQL</li>
-        <li style="display: inline;">Python</li>
-        <li style="display: inline;">HTML</li>
-      </ul>
-    </span>
+    <p style="text-align: left;">
+      • Office <br>
+      • C++ <br>
+      • SQL <br>
+      • Python <br>
+      • HTML
+    </p>
   </p>
 
   <hr style="width: 80%; border: 1px solid #ddd; margin: 20px auto;">
 
   <!-- Hobbies Section -->
   <h2>🏅 Hobbies</h2>
-  <p style="text-align: center; width: 70%; margin: auto;">
+  <p style="text-align: left; width: 70%; margin: auto;">
     When I’m not studying, I enjoy:
-    <span style="display: inline-block; text-align: left; margin-top: 10px;">
-      <ul style="list-style: disc; display: inline; margin: 0;">
-        <li style="display: inline;">Playing video games 🎮</li>
-        <li style="display: inline;">Working out 🏋️</li>
-      </ul>
-    </span>
+    <p style="text-align: left;">
+      • Playing video games 🎮 <br>
+      • Working out 🏋️
+    </p>
   </p>
 
   <hr style="width: 80%; border: 1px solid #ddd; margin: 20px auto;">
